@@ -1,0 +1,44 @@
+index.html
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Atlantyz_IA</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: linear-gradient(to right, #001f3f, #0074D9);
+      color: white;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      padding: 3rem 1rem;
+    }
+    h1 {
+      font-size: 2.5rem;
+    }
+    p {
+      max-width: 600px;
+      margin: 1rem auto;
+      font-size: 1.2rem;
+    }
+    footer {
+      margin-top: 2rem;
+      font-size: 0.9rem;
+      color: #ccc;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Atlantyz_IA 🌍</h1>
+    <p>Iniciativa global de ajuda humanitária guiada por inteligência artificial. Em breve, uma nova forma de decidir o futuro em colaboração.</p>
+  </header>
+  <footer>
+    &copy; 2025 Atlantyz_IA – Projeto visionário de Mkw e comunidade global.
+  </footer>
+</body>
+</html>
